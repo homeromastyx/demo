@@ -1,3 +1,7 @@
-# Header
-blah blah blah
-update
+# Demo Project README
+
+This is a simple readme file
+
+## Heading
+
+Just some updates
